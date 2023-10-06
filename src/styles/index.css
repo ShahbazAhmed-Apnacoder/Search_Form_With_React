@@ -1,0 +1,134 @@
+/*Connecting External Css from style folder  */
+
+.googleform {
+    max-width: auto;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.row1 {
+
+
+
+    margin: 15px 5px 5px 78%;
+    display: inline-flex;
+    /* margin-left:580px ; */
+}
+
+.row1>ul {
+
+    margin: 5px;
+    display: inline-flex;
+}
+
+.row1>ul>li {
+    font-size: 24px;
+    margin: 5px;
+    list-style-type: none;
+
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+.idImage {
+ 
+    padding: 2px;
+    height: 55px;
+    width: 55px;
+    border-radius: 100%;
+}
+
+.row2 {
+    max-width: auto;
+    /* max-width: 960px; */
+
+}
+
+.google_image {
+    margin: 10px 37%;
+    min-width: 100px;
+    width: 300px;
+    height: 50px;
+    /* max-width: 800px; */
+    min-height: 100px;
+    max-height: 200px;
+}
+
+
+.row3 {
+    max-width: auto;
+    display: inline-flex;
+    margin: 10px 30% 10px 30%;
+}
+
+
+.inputQuestion {
+
+    padding: 10px;
+    width: 450px;
+    height: 30px;
+    border-radius: 30px;
+    font-size: 24px;
+    text-indent: 35px;
+
+}
+
+.image_search {
+    width: 30px;
+    position: absolute;
+    top: 230px;
+    left: 386px;
+}
+
+.image_voice {
+
+    width: 40px;
+    position: absolute;
+    top: 225px;
+    left: 735px;
+}
+
+.image_camera {
+    width: 40px;
+    position: absolute;
+    top: 225px;
+    left: 790px;
+}
+
+.inputQuestion:hover {
+
+    box-shadow: 0px 0px 3px rgb(0, 0, 0);
+
+}
+
+.inputQuestion:focus {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+
+
+}
+
+.buttons {
+    width: 940px;
+    margin: 2px 36% 10px 36%;
+
+}
+
+.buttons>.btn {
+    padding: 10px;
+    margin: 3px;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+
+}
+
+.buttons>.btn:hover {
+
+    box-shadow: 0px 0px 1px black;
+
+}
